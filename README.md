@@ -1,16 +1,16 @@
 # Ten Seconds — animation downloads
 
-The new 15-second visual comparison uses the opening Ten Seconds narration:
-coffee spill, finger snap, rewind, clean shirt, and café patrons.
+Two 15-second tests of the opening Ten Seconds story: coffee spill, finger snap,
+rewind, clean shirt, and café patrons. Both use native **1080×1920, 30 fps,
+450 rendered frames**, with the same supplied narration and original sound mix.
 
-| 15-second test | Native format | Download |
-| --- | --- | --- |
-| A — Remotion + Three.js | 1080×1920, 30 fps, 450 frames | [Download MP4](https://github.com/theunity607-byte/3d-short/raw/refs/heads/main/deliverables/Ten-Seconds-Test-A-Remotion-Three-1080p.mp4) |
+| Test | Method | Size | Download |
+| --- | --- | --- | --- |
+| A | A — Remotion + Three.js | 11.3 MB | [Download MP4](https://github.com/theunity607-byte/3d-short/raw/refs/heads/main/deliverables/Ten-Seconds-Test-A-Remotion-Three-1080p.mp4) |
+| B | B — Blender toon render + Remotion | 15.5 MB | [Download MP4](https://github.com/theunity607-byte/3d-short/raw/refs/heads/main/deliverables/Ten-Seconds-Test-B-Blender-1080p.mp4) |
 
-The Blender comparison is rendering and will be added after validation.
-Test A has the supplied narration, original music/effects, H.264 picture, stereo
-48 kHz AAC sound, and a fast-start MP4 layout. Its full 450-frame decode and
-constant 30 fps timing pass the technical checks.
+Both movies pass full decode, frame-rate/count, black/frozen-frame and audio checks.
+The soundtrack is stereo 48 kHz AAC, -15.9 LUFS integrated / -1.8 dBTP.
 
 ## Earlier full short
 

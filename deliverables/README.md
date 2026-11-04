@@ -1,9 +1,12 @@
 # Ten Seconds downloads
 
-The new 15-second test is `Ten-Seconds-Test-A-Remotion-Three-1080p.mp4`:
-native 1080×1920, 30 fps, 450 frames, supplied opening narration and original
-music/effects. It has a complete clean decode, constant frame timing, stereo
-48 kHz AAC, and a fast-start MP4 layout. The Blender comparison is still rendering.
+- `Ten-Seconds-Test-A-Remotion-Three-1080p.mp4`: Remotion + Three.js test.
+- `Ten-Seconds-Test-B-Blender-1080p.mp4`: Blender 3D toon render + Remotion test.
+
+Both new movies are native 1080×1920, 30 fps, 450 frames and exactly 15 seconds.
+They share the supplied opening narration, original music/effects and identical
+stereo 48 kHz AAC audio. Full decode and technical QA pass for both; MP4s use
+H.264 and fast-start layout.
 
 ## Earlier full short
 
