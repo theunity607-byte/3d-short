@@ -1,4 +1,11 @@
-# Ten Seconds
+# Ten Seconds downloads
+
+The new 15-second test is `Ten-Seconds-Test-A-Remotion-Three-1080p.mp4`:
+native 1080×1920, 30 fps, 450 frames, supplied opening narration and original
+music/effects. It has a complete clean decode, constant frame timing, stereo
+48 kHz AAC, and a fast-start MP4 layout. The Blender comparison is still rendering.
+
+## Earlier full short
 
 68.8-second 9:16 animated short using the supplied voice-over.
 
